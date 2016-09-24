@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    devise (1.0.4)
+      warden (~> 0.9.4)
+    rack (1.6.4)
+    warden (0.9.7)
+      rack (>= 1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  devise (~> 1.0)
+  rack (~> 1.0)
+  warden (~> 0.9.0)
+
+BUNDLED WITH
+   1.13.1
